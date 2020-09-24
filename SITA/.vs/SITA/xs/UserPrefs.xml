@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{1EA572A9-2DAD-9302-D32E-4C066E4A1DC7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scene-Specific Assets/Parent_Settings.cs">
+    <Files>
+      <File FileName="Assets/difficultybutton.cs" Line="27" Column="11" />
+      <File FileName="Assets/Scripts/Settings.cs" Line="30" Column="20" />
+      <File FileName="Assets/Scripts/buttonclicked.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scene-Specific Assets/Parent_Settings.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="77c7296e-d5d1-4b95-8142-07fa92e5042e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jenninorell/Documents/GitHub/20-13-SpeechTherapy/SITA/Assets/difficultybutton.cs" relfile="Assets/difficultybutton.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

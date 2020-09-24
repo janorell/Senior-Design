@@ -1,0 +1,8 @@
+1.0.2
+- Video Manager
+- Video Controls
+- Video Shuffle
+- Video List Loop
+- Full Screen Mode
+- Video URL Streaming
+- Sound Volume Controller

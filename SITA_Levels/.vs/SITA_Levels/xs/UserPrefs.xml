@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4F9C875F-8B94-9A36-71AD-14AFEC6E051C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelSelectMenu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LevelSelectMenu.cs" Line="89" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="65f7af31-8874-4a6a-ab61-1a2e11d5087a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
