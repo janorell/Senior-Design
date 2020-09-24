@@ -12,7 +12,7 @@
 ## Project Specifications
 
 ### Link to the project
-To clone the project from GitHub and open on Unity3D use the following [link](https://github.com/BostonUniversitySeniorDesign/20-13-SpeechTherapy.git).
+To clone the project from GitHub and open on Unity3D use the following [link](https://github.com/jenninorell/Senior-Design.git).
 
 ### Project description
 Our Project is on a Speech Therapy App. Our team is developing a game that will assist in the speech therapy of kids with autism spectrum disorder. We are developing this application for non-verbal children between the ages of 2 to 5. It is a dynamic speech therapy game for language cognition and speech training.
